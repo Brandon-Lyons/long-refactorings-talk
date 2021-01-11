@@ -14,7 +14,7 @@ GEM
       redcarpet
       trollop
     multi_xml (0.5.5)
-    redcarpet (3.1.2)
+    redcarpet (3.5.1)
     trollop (2.0)
 
 PLATFORMS
