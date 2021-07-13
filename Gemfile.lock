@@ -1,7 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.3.6)
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
     httparty (0.13.1)
       json (~> 1.8)
       multi_xml (>= 0.5.2)
@@ -14,6 +15,7 @@ GEM
       redcarpet
       trollop
     multi_xml (0.5.5)
+    public_suffix (4.0.6)
     redcarpet (3.1.2)
     trollop (2.0)
 
